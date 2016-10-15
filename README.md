@@ -17,4 +17,6 @@ and call it
 
 Where "key" is the name of the file in your ~/.aws/ directory excluding the GPG extension.
 
+The function also contains a (non-default) option to request your GPG key passphrase if you do not wish to use the passphrase in your key chain.
+
 
